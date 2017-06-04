@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSamples</string>
+    <string name="default_error">No data found</string>
+</resources>
